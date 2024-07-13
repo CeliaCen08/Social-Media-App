@@ -1,0 +1,12 @@
+import Router from "./pages/Router/Router";
+import './index.css'
+
+function App() {
+  return (
+    <div className="App">
+      <Router/>
+    </div>
+  );
+}
+
+export default App;
